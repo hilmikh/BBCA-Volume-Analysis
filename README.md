@@ -3,4 +3,4 @@ In 2021 approximately 20 Billion shares of BBCA stock were traded. This value de
 
 This Repo will showcase the analysis of the relation of stock volume with time series which includes day of week, day of month, month, and year. The analyzed stock data  is BBCA due to its having the highest market cap and less volatile. The stock data is obtained from Yahoo Finance using yfinance.
 
-[Medium writing for this analysis](https://medium.com/@hilmik/stock-transaction-time-behaviour-4af6c9804d43)
+[Medium article for this analysis](https://medium.com/@hilmik/stock-transaction-time-behaviour-4af6c9804d43)
